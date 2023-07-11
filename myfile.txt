@@ -7,3 +7,4 @@ git add myfile.txt
 git commit -m "More changes"
 git log (id "New changes")
 git reset (id "New changes")
+git status
