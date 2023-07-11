@@ -1,0 +1,5 @@
+"Hello world"
+git add myfile.txt
+git branch new-branch
+git add myfile.txt
+git commit -m "New changes"
