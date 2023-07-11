@@ -6,4 +6,4 @@ git commit -m "New changes"
 git add myfile.txt
 git commit -m "More changes"
 git log (id "New changes")
-gir reset (id "New changes")
+git reset (id "New changes")
